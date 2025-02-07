@@ -1,50 +1,38 @@
-# Welcome to your Expo app 👋
+# Expo App with Rive Animations
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 🎞️ Demos
 
-## Get started
+## 📝 Description
 
-1. Install dependencies
+This Expo app leverages **Rive** for an enhanced user experience, including:
 
-   ```bash
-   npm install
+- **Animated Refresh Control**: A smooth and engaging pull-to-refresh animation.
+- **Custom Bottom Tabs**: Interactive and dynamic tab navigation with Rive effects.
+
+Built with **React Native, Expo, and Rive**, this project focuses on fluid and visually appealing UI interactions. 🚀
+
+## 🌈 Rive
+
+[Rive](https://rive.app/) is a real-time interactive animation tool that allows developers to create and integrate lightweight, high-performance animations into apps, games, and websites. Unlike traditional animations, Rive animations are dynamic and state-driven, enabling smooth transitions and interactions.
+
+## 📲 Installation & Running the App
+
+1. Install dependencies:
+
+   ```sh
+   yarn install
    ```
 
-2. Start the app
+2. Compile plugin and prebuild app
 
-   ```bash
-    npx expo start
+   ```sh
+   yarn prebuild
    ```
 
-In the output, you'll find options to open the app in a
+3. Start iOS app:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+   ```sh
+   npx expo run:ios
+   ```
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### I've created animations myself, they can be found on [my Rive profiil](https://rive.app/@b.sworzen).
