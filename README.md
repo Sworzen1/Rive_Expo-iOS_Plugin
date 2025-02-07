@@ -49,4 +49,4 @@ Built with **React Native, Expo, and Rive**, this project focuses on fluid and v
    npx expo run:ios
    ```
 
-### I've created animations myself, they can be found on [my Rive profiil](https://rive.app/@b.sworzen).
+### I've created animations myself, I encourage you to visit [my Rive profiil](https://rive.app/@b.sworzen).
